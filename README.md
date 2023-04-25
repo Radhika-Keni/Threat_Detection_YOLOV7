@@ -4,7 +4,7 @@ Build a model capable of detecting and classifying weapons
 
 ## Objective of this notebook
 - The purpose of this notebook is to build model capable of detecting and classifying weapons
-- The algorithm of choice here is YOLOV7 and we would be custom training YOLOV7 on an aerial imagery datatset
+- The algorithm of choice here is YOLOV7 and we would be custom training YOLOV7 on a weapons datatset
 - Details of the **Problem Statement**  , **Data Set** , **Data Pre-processing & Splits**,  **Architecture/Algorithm** , **Summary of the Code/Solution**  , **Sample Output/Prediction** from the program and **Final Result** of the project are listed in the sections to follow.
 
 ## Problem Statement 
